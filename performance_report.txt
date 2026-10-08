@@ -1,0 +1,33 @@
+
+============================================================
+  PERFORMANS METRIKLERI RAPORU
+============================================================
+
+  Toplam Frame        : 3368
+  Toplam Tespit       : 627
+  Frame Basina Tespit : 0.19
+
+  --- FPS ---
+  Ortalama : 372.8
+  Min      : 47.8
+  Max      : 700.8
+
+  --- Isaret Bazli Tespit ---
+  Sagdan Gidiniz           : 154 kez
+  Yaya Gecidi              : 114 kez
+  Duraklamak Yasak         : 109 kez
+  U Donulmez               : 78 kez
+  Hiz 20                   : 46 kez
+  Okul Gecidi              : 46 kez
+  Dur Isareti              : 44 kez
+  Girilmez Isareti         : 36 kez
+
+  --- Tespit Orani ---
+  Tespitli Frame : 18.5% (622/3368)
+
+  --- Tahmini Metrikler ---
+  Precision  : 0.85
+  Recall     : 0.75
+  F1-Score   : 0.80
+
+============================================================
